@@ -1,0 +1,21 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+h1 {
+  color: #333; }
+
+header {
+  width: 980px;
+  height: 80px; }
+  header nav ul {
+    list-style: none;
+    padding: none;
+    margin: none; }
+  header nav li {
+    display: inline; }
+    header nav li a {
+      text-decoration: none; }
+
+.testing {
+  font: Helvetica, sans-serif; }
